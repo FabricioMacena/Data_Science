@@ -1,6 +1,6 @@
 <h1>California Housing 🏡</h1>
 
-<span>This dataset can be found in <a href='https://www.kaggle.com/datasets/camnugent/california-housing-prices'>kaggle</a></span>
+<span>This dataset can be found in <a href='https://www.kaggle.com/datasets/camnugent/california-housing-prices'>kaggle</a> and in this <a href='https://github.com/FabricioMacena/Data_Analysis/blob/main/California%20Housing/housing.csv'>repository</a></span>
 
 <hr>
 
