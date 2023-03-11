@@ -1,6 +1,6 @@
 <h1>Heart Failure 🫀</h1>
 
-<span>This dataset can be found in <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction">Kaggle</a></span>
+<span>This dataset can be found in <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction">Kaggle</a> and in this <a href='https://github.com/FabricioMacena/Data_Analysis/blob/main/Heart%20Failure/heart.csv'>repository</a></span>
 
 <hr>
 
