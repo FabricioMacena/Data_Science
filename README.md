@@ -4,6 +4,7 @@
 <h2>Classification</h2>
 <ul>
   <li><a href='https://github.com/FabricioMacena/Data_Analysis/blob/main/Heart%20Failure/doc_HeartFailure.md'>Heart Failure</a></li>
+  <li><a href='https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.md'>Credit Card Fraud</a></li>
 </ul>
 <h2>Regression</h2>
 <ul>
