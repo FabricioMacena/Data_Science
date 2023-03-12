@@ -1,4 +1,4 @@
-<h1>Data_Analysis :bar_chart:</h1>
+<h1>Data Analysis :bar_chart:</h1>
 <h4>Some of my data analysis and machine learning projects, to see more :point_right: <a href='https://www.kaggle.com/fabrciomacena' target='_blank'>my kaggle</a></h4>
 <hr>
 <h2>Classification</h2>
