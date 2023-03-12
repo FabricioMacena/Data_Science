@@ -1,4 +1,4 @@
-<h1>Credit Card Fraud :lock:</h1>
+<h1>Credit Card Fraud Detection:lock:</h1>
 
 <span>This dataset can be found in <a href='https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud'>Kaggle</a></span>
 
