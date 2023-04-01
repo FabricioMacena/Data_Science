@@ -9,4 +9,5 @@
   - [California Housing](https://github.com/FabricioMacena/Data_Analysis/blob/main/California%20Housing/doc_CaliforniaHousing.md)
 
 ## Visualization
-- [Brazillian E-Commerce](https://github.com/FabricioMacena/Data_Analysis/blob/main/Brazillian%20E-Commerce%20by%20Olist/doc_brazillian_ecommerce.md)
+- **EDA and NLP**
+  - [Brazillian E-Commerce](https://github.com/FabricioMacena/Data_Analysis/blob/main/Brazillian%20E-Commerce%20by%20Olist/doc_brazillian_ecommerce.md)
