@@ -4,7 +4,7 @@ ___
 
 > **[My data analysis and predictios](https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.ipynb)**
 
-<hr>
+___
 
 ## Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
