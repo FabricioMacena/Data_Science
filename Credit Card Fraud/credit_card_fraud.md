@@ -2,7 +2,7 @@
 This dataset can be found in [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ___
 
-> **[My data analysis and predictios](https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.ipynb)**
+> **[My data analysis and predictios of this dataset](https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.ipynb)**
 
 ___
 
