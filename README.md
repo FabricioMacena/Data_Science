@@ -4,6 +4,7 @@
 - **Classification**
   - [Heart Failure](https://github.com/FabricioMacena/Data_Analysis/blob/main/Heart%20Failure/doc_HeartFailure.md)
   - [Credit Card Fraud Detection](https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.md)
+  - [Covid-19](https://github.com/FabricioMacena/Data_Analysis/blob/main/Covid-19/covid_prediction.md)
 
 - **Regression**
   - [California Housing](https://github.com/FabricioMacena/Data_Analysis/blob/main/California%20Housing/doc_CaliforniaHousing.md)
