@@ -1,11 +1,11 @@
 # Brazilian E-Commerce by Olyst :department_store:
-The files can be found in this [repository](https://github.com/FabricioMacena/Data_Analysis/tree/main/Brazillian%20E-Commerce%20by%20Olist/files) and in [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+The files can be found in this [repository](https://github.com/FabricioMacena/Data_Science/tree/main/Brazillian%20E-Commerce%20by%20Olist/files) and in [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-I converted the databases into a database to be manipulated with sqlite, but github does not allow the upload of files with more than 100mb, so I made the notebook available for conversion [here](https://github.com/FabricioMacena/Data_Analysis/blob/main/Brazillian%20E-Commerce%20by%20Olist/creating_the_database.ipynb)
+I converted the databases into a database to be manipulated with sqlite, but github does not allow the upload of files with more than 100mb, so I made the notebook available for conversion [here](https://github.com/FabricioMacena/Data_Science/blob/main/Brazillian%20E-Commerce%20by%20Olist/creating_the_database.ipynb)
 
 ___
 
-> **[My data analysis and visualization](https://github.com/FabricioMacena/Data_Analysis/blob/main/Brazillian%20E-Commerce%20by%20Olist/brazilian_ecommerce.ipynb)**
+> **[My data analysis and visualization](https://github.com/FabricioMacena/Data_Science/blob/main/Brazillian%20E-Commerce%20by%20Olist/brazilian_ecommerce.ipynb)**
 
 ___
 

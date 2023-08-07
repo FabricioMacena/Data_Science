@@ -4,7 +4,7 @@ This dataset can be found in [kaggle](https://www.kaggle.com/datasets/meirnizri/
 
 ___
 
-> **[My analysis and prediction of this dataset](https://github.com/FabricioMacena/Data_Analysis/blob/main/Covid-19/covid_prediction.ipynb)**
+> **[My analysis and prediction of this dataset](https://github.com/FabricioMacena/Data_Science/blob/main/Covid-19/covid_prediction.ipynb)**
 
 ___
 
