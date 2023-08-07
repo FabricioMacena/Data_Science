@@ -2,7 +2,7 @@
 > Some of my data analysis and machine learning projects, to see more [my kaggle](https://www.kaggle.com/fabrciomacena)
 ## Machine Learning
 - **Classification**
-  - [Heart Failure](https://github.com/FabricioMacena/Data_Analysis/blob/main/Heart%20Failure/doc_HeartFailure.md)
+  - [Heart Diseases](https://github.com/FabricioMacena/Data_Analysis/blob/main/Heart%20Diseases/heart_diseases_intro.md)
   - [Credit Card Fraud Detection](https://github.com/FabricioMacena/Data_Analysis/blob/main/Credit%20Card%20Fraud/credit_card_fraud.md)
   - [Covid-19](https://github.com/FabricioMacena/Data_Analysis/blob/main/Covid-19/covid_prediction.md)
 
