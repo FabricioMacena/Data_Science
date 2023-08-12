@@ -8,6 +8,7 @@
 
 - **Regression**
   - [California Housing](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/doc_CaliforniaHousing.md)
+  - [Melbourne Housing](https://github.com/FabricioMacena/Data_Science/blob/main/Melbourne%20Housing/melbourne_housing_intro.md)
 
 ## Visualization
 - **EDA and NLP**
