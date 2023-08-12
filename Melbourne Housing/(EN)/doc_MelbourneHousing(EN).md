@@ -2,6 +2,8 @@
 The dataset can be found in this [repository](https://github.com/FabricioMacena/Data_Science/blob/main/Melbourne%20Housing/melb_data.csv) and on [Kaggle](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot).
 
 ## Context
+> The dataset consists of various data related to houses from the state of Melbourne in Australia.
+
 > This is intended as a static (unchanging) snapshot of https://www.kaggle.com/anthonypino/melbourne-housing-market. It was created in September 2017.
 
 > It was scraped from publicly available results posted every week from Domain.com.au. He cleaned it well, and now it's up to you to make data analysis magic. The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
