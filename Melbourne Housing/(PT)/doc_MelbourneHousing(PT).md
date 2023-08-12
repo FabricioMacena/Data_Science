@@ -41,6 +41,6 @@ O conjunto de dados pode ser encontrado neste [repositório](https://github.com/
 - CouncilArea: Conselho Deliberativo da área
 ___
 
-> **[Clique aqui para ver meu projeto](https://github.com/FabricioMacena/Data_Science/blob/main/Melbourne%20Housing/(PT)/melbourne_housing(EN).ipynb)**
+> **[Clique aqui para ver meu projeto](https://github.com/FabricioMacena/Data_Science/blob/main/Melbourne%20Housing/(PT)/melbourne_housing(PT).ipynb)**
 
 ___
