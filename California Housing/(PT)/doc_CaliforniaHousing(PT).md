@@ -1,4 +1,4 @@
-# California Housing :derelict_house:
+# Casas em California :derelict_house:
 Esse dataset pode ser encontrado nesse [repositório](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/housing.csv) e no [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 ## Context
