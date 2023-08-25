@@ -8,4 +8,5 @@ Esse dataset pode ser encontrado nesse [repositório](https://github.com/Fabrici
 > Os dados referem-se às casas encontradas em um determinado distrito da Califórnia e a algumas estatísticas resumidas sobre elas com base nos dados do censo de 1990. Esteja avisado que os dados não são limpos, portanto, são necessárias algumas etapas de pré-processamento! As colunas são as seguintes, seus nomes são bastante autoexplicativos
 ___
 
-> **[Clique aqui para ver meu projeto](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/(EN)/california_housing(EN).ipynb)**
+> **[Clique aqui para ver meu projeto](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/(PT)/california_housing(PT).ipynb)**
+___
