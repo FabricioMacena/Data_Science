@@ -26,6 +26,6 @@ Conjunto de dados final: 918 observações.
 
 ___
 
-> **[Minha análise de dados e previsão deste conjunto de dados](https://github.com/FabricioMacena/Data_Science/blob/main/Heart%20Diseases/(PT)/heart_diseases(PT).ipynb)**
+> **[Clique aqui para ver meu projeto](https://github.com/FabricioMacena/Data_Science/blob/main/Heart%20Diseases/(PT)/heart_diseases(PT).ipynb)**
 
 ___

@@ -26,6 +26,6 @@ Final dataset: 918 observations.
 
 ___
 
-> **[My data analysis and prediction of this dataset](https://github.com/FabricioMacena/Data_Science/blob/main/Heart%20Diseases/(EN)/heart_diseases(EN).ipynb)**
+> **[Click here to see my project](https://github.com/FabricioMacena/Data_Science/blob/main/Heart%20Diseases/(EN)/heart_diseases(EN).ipynb)**
 
 ___
