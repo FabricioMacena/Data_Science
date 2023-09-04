@@ -12,4 +12,4 @@
 
 ## Visualization
 - **EDA and NLP**
-  - [Brazillian E-Commerce](https://github.com/FabricioMacena/Data_Science/blob/main/Brazillian%20E-Commerce%20by%20Olist/doc_brazillian_ecommerce.md)
+  - [Brazillian E-Commerce](https://github.com/FabricioMacena/Data_Science/blob/main/Brazillian%20E-Commerce%20by%20Olist/brazillian_ecommerce_intro.md)
