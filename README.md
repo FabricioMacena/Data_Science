@@ -5,6 +5,7 @@
   - [Heart Diseases](https://github.com/FabricioMacena/Data_Science/blob/main/Heart%20Diseases/heart_diseases_intro.md)
   - [Credit Card Fraud Detection](https://github.com/FabricioMacena/Data_Science/blob/main/Credit%20Card%20Fraud%20Detection/credit_card_fraud_detection_intro.md)
   - [Covid-19](https://github.com/FabricioMacena/Data_Science/blob/main/Covid-19/covid_prediction.md)
+  - [Marketing Campaign](https://github.com/FabricioMacena/Data_Science/blob/main/Marketing%20Campaign/marketing_campaign_intro.md)
 
 - **Regression**
   - [California Housing](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/california_housing_intro.md)
