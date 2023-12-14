@@ -1,5 +1,5 @@
 # Marketing Campaign :department_store:
-The dataset can be found in this [repository](https://github.com/FabricioMacena/Data_Science/blob/main/Marketing%20Campaing/superstore_data.csv) and on [Kaggle](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset).
+The dataset can be found in this [repository](https://github.com/FabricioMacena/Data_Science/blob/main/Marketing%20Campaign/superstore_data.csv) and on [Kaggle](https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset).
 
 ## Context
 
