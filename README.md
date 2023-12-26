@@ -11,6 +11,9 @@
   - [California Housing](https://github.com/FabricioMacena/Data_Science/blob/main/California%20Housing/california_housing_intro.md)
   - [Melbourne Housing](https://github.com/FabricioMacena/Data_Science/blob/main/Melbourne%20Housing/melbourne_housing_intro.md)
 
+- **Clustering**
+  - [Customer Segmentation](https://github.com/FabricioMacena/Data_Science/blob/main/Customer%20Segmentation/customer_segmentation_intro.md)
+
 ## Visualization
 - **EDA and NLP**
   - [Brazillian E-Commerce](https://github.com/FabricioMacena/Data_Science/blob/main/Brazillian%20E-Commerce%20by%20Olist/brazillian_ecommerce_intro.md)
